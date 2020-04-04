@@ -27,7 +27,15 @@
     >
       <q-list>
         <q-item-label header>PushFire</q-item-label>
-
+        <q-item tag="a" target="_blank" href="https://github.com/0x77dev/pushfire/wiki" clickable>
+          <q-item-section avatar>
+            <q-icon name="web" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Wiki</q-item-label>
+            <q-item-label caption>Github Wiki</q-item-label>
+          </q-item-section>
+        </q-item>
         <q-item clickable @click="logoutUser()">
           <q-item-section avatar>
             <q-icon name="power_settings_new" />
