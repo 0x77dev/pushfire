@@ -5,6 +5,7 @@
   "productName": "PushFire",
   "cordovaId": "io.marinenko.pushfire",
   "capacitorId": "",
+  "license": "MIT",
   "author": "Misha Marinenko <0x77dev@protonmail.com>",
   "contributors": [
     "Adam K. Purdy <admin@kpapro.com>"
